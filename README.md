@@ -1,8 +1,8 @@
+![image](https://github.com/user-attachments/assets/9825e17f-32e0-452c-a16b-6f50cf4d0a91)
+
 # ☕ Coffee Shop Sales Dashboard
 
 This project is a Power BI dashboard that shows the **sales performance** of a coffee shop with multiple store locations. It helps understand how the business is doing by analyzing sales, customer visits, top products, and buying patterns.
-
----
 
 ## 📌 Project Summary
 
@@ -10,8 +10,6 @@ This project is a Power BI dashboard that shows the **sales performance** of a c
 - Built using **Microsoft Power BI**
 - Uses filters (Month, Day) for interactive analysis
 - Aims to help business owners make smarter decisions using data
-
----
 
 ## 🎯 Goals of the Dashboard
 
@@ -21,16 +19,12 @@ This project is a Power BI dashboard that shows the **sales performance** of a c
 - Compare store performance
 - Provide simple, visual insights to improve business strategy
 
----
-
 ## 📊 Key Metrics
 
 - **Total Sales:** ₹6,98,812.33
 - **Total Footfall:** 149,116 customers
 - **Average Bill per Person:** ₹4.69
 - **Average Orders per Person:** 1.44
-
----
 
 ## 🧠 Key Insights
 
@@ -40,8 +34,6 @@ This project is a Power BI dashboard that shows the **sales performance** of a c
 - **Hell’s Kitchen** store had the highest revenue
 - Order sizes are mostly **Regular** and **Large**
 - Sales are steady across the week, slightly lower on Sundays
-
----
 
 ## 🛠 Tools & Technologies
 
