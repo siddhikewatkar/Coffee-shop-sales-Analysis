@@ -7,10 +7,15 @@ It helps understand how the business is doing by analyzing sales, customer visit
 
 🔍 Goals of the Dashboard :-
 Track total sales and customer footfall
+
 Find out the busiest hours and best days for sales
+
 Identify which products and categories sell the most
+
 Compare performance across store locations
+
 Help business owners make better decisions using data
+
 
 📊 Key Highlights
 Total Sales: ₹6,98,812.33
