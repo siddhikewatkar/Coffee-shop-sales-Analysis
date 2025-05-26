@@ -1,7 +1,9 @@
 ![image](https://github.com/user-attachments/assets/2f296475-07a0-4381-b7d6-9f5cb621d0cd)
 ☕ Coffee Shop Sales Dashboard
+
 📌 Project Summary
-This project is a Power BI dashboard that shows the sales performance of a coffee shop with multiple store locations. It helps understand how the business is doing by analyzing sales, customer visits, popular products, and buying patterns.
+This project is a Power BI dashboard that shows the sales performance of a coffee shop with multiple store locations. 
+It helps understand how the business is doing by analyzing sales, customer visits, popular products, and buying patterns.
 
 🔍 Goals of the Dashboard :-
 Track total sales and customer footfall
