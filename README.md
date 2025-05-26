@@ -1,34 +1,51 @@
-![image](https://github.com/user-attachments/assets/2f296475-07a0-4381-b7d6-9f5cb621d0cd)
-☕ Coffee Shop Sales Dashboard
+# ☕ Coffee Shop Sales Dashboard
 
-📌 Project Summary
-This project is a Power BI dashboard that shows the sales performance of a coffee shop with multiple store locations. 
-It helps understand how the business is doing by analyzing sales, customer visits, popular products, and buying patterns.
+This project is a Power BI dashboard that shows the **sales performance** of a coffee shop with multiple store locations. It helps understand how the business is doing by analyzing sales, customer visits, top products, and buying patterns.
 
-🔍 Goals of the Dashboard :-
-Track total sales and customer footfall 
-Find out the busiest hours and best days for sales
-Identify which products and categories sell the most 
-Compare performance across store locations
-Help business owners make better decisions using data
+---
 
+## 📌 Project Summary
 
-📊 Key Highlights
-Total Sales: ₹6,98,812.3
-Total Customers (Footfall): 149,116
-Average Bill per Person: ₹4.69
-Average Orders per Person: 1.44
+- Visualizes key sales and customer data for a coffee shop business
+- Built using **Microsoft Power BI**
+- Uses filters (Month, Day) for interactive analysis
+- Aims to help business owners make smarter decisions using data
 
-🧠 Insights from the Dashboard
-Most orders are placed between 8 AM and 10 AM (morning peak hours)
-Tea, Drinking Chocolate, and Bakery items are the top-selling categories
-Barista Espresso is the most popular product
-The Hell’s Kitchen store had the highest sales
-Most people prefer Regular and Large sizes
-Sales are steady throughout the week, with slightly lower numbers on Sundays
+---
 
-🛠 Tools Used
-Power BI – For building the dashboard and visuals
-Excel – For cleaning and preparing data
-DAX – For creating custom metrics and calculations
+## 🎯 Goals of the Dashboard
+
+- Track total sales and customer footfall
+- Find peak order hours and best-performing days
+- Identify top-selling products and categories
+- Compare store performance
+- Provide simple, visual insights to improve business strategy
+
+---
+
+## 📊 Key Metrics
+
+- **Total Sales:** ₹6,98,812.33
+- **Total Footfall:** 149,116 customers
+- **Average Bill per Person:** ₹4.69
+- **Average Orders per Person:** 1.44
+
+---
+
+## 🧠 Key Insights
+
+- Most orders happen between **8 AM and 10 AM**
+- **Tea (39%)**, **Drinking Chocolate (28%)**, and **Bakery Items (12%)** are top categories
+- **Barista Espresso** is the most sold product
+- **Hell’s Kitchen** store had the highest revenue
+- Order sizes are mostly **Regular** and **Large**
+- Sales are steady across the week, slightly lower on Sundays
+
+---
+
+## 🛠 Tools & Technologies
+
+- **Power BI** – Dashboard and Data Visualization
+- **Excel** – Data Cleaning & Preprocessing
+- **DAX** – Measures and Calculated Fields
 
